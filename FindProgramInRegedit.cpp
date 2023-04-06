@@ -1,3 +1,4 @@
+// 레지스트리에서 프로그램 정보를 검색하는 소스코드
 void FindProgramInRegedit()
 {
 	//CString refer = { "V3 Lite,아이피,Update Helper" };
